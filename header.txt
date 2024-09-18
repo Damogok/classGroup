@@ -1,0 +1,14 @@
+this is the header of the project i am working with 
+i want to work in gorup
+
+local stage 
+Stage Area
+Reposatory Area
+
+Git in it (repository)
+Git Add]
+Git commit -m
+Git check out - b""
+Git check out branch name
+Up stream
+Git pull

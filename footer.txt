@@ -1,0 +1,35 @@
+
+local stage 
+Stage Area
+Reposatory Area
+
+Git in it (repository)
+Git Add]
+Git commit -m
+Git check out - b""
+Git check out branch name
+Up stream
+Git pull
+Git commit - A
+Git rm to dele a file
+Git restore --staged file name
+	
+
+all ways do git addd after everything to check if you have added
+Git mv(rename)
+Git branch
+Git bracnch --d(to delete a banch)
+.Gitgignore(you would have to creat the file and you would insert what you dont wnat git to track) 
+Git reflog
+
+
+-- Add  Push pull it would fetch and merge at the same time
+Push () 
+git fetch pull the update to the branch you working on(you would be able to see the update wityhou merging yet)
+Git merge to join ]
+Sprint 
+Blocker
+(Trello 
+Gira)
+used in managing project
+Pull request
